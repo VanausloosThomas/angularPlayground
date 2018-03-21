@@ -1,1 +1,1 @@
-# angularPlayground
+Personal playground to mess around with angular
